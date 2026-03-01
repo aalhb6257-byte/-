@@ -1,0 +1,672 @@
+{
+  "users": [
+    {
+      "fullNameQuad": "عدنان محمد طه ياسين الياسيني",
+      "motherNameTriple": "سحر داوود عبود",
+      "birthDate": "2003-02-22",
+      "gender": "ذكر",
+      "education": "متوسطة",
+      "department": "مبيعات الطاقة",
+      "role": "حرفي اول",
+      "secondedFrom": "الشركة العامة لتوزيع البصرة",
+      "secondedTo": "وزارة النفط",
+      "releaseDate": "2026-11-22",
+      "commencementDate": "1111-11-11",
+      "secondmentDuration": "سنتان",
+      "secondmentEndDate": "2028-02-22",
+      "secondmentExtensionPeriod": "لايوجد",
+      "secondmentType": "خارجي",
+      "name": "عدنان",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "appointmentDateContract": "",
+      "appointmentDatePermanent": "",
+      "preciseSpecialization": "",
+      "notes": "تنسيب خارجي",
+      "id": "7z8xcvbhc",
+      "joinDate": "2026-02-28",
+      "status": "نشط",
+      "salary": 0
+    },
+    {
+      "fullNameQuad": "صاحب مجيد عياش الغنامي",
+      "motherNameTriple": "اميرة لاوب عبود",
+      "birthDate": "1993-06-16",
+      "gender": "ذكر",
+      "education": "ابتدائية",
+      "department": "السلامة",
+      "role": "حرفي",
+      "secondedFrom": "شعبة السلامة",
+      "secondedTo": "مبيعات الطاقة",
+      "releaseDate": "2025-08-08",
+      "commencementDate": "2026-02-22",
+      "secondmentDuration": "سنة واحدة",
+      "secondmentEndDate": "2027-02-22",
+      "secondmentExtensionPeriod": "لاتوجد",
+      "secondmentType": "داخلي",
+      "name": "صاحب",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "appointmentDateContract": "",
+      "appointmentDatePermanent": "",
+      "preciseSpecialization": "",
+      "notes": "تنسيب داخلي",
+      "id": "7csccokr6",
+      "joinDate": "2026-02-28",
+      "status": "نشط",
+      "salary": 0
+    },
+    {
+      "id": "u1",
+      "name": "علي خضر",
+      "fullNameQuad": "علي خضر بن حسن آل علي",
+      "motherNameTriple": "سارة بنت محمد حسن",
+      "gender": "ذكر",
+      "birthDate": "1985-05-15",
+      "education": "ماجستير إدارة أعمال",
+      "preciseSpecialization": "إدارة استراتيجية",
+      "appointmentDateContract": "2022-12-01",
+      "appointmentDatePermanent": "2023-01-01",
+      "email": "ali.khadr@example.com",
+      "role": "مدير",
+      "status": "نشط",
+      "joinDate": "2023-01-01",
+      "phone": "+966 50 123 4567",
+      "department": "الإدارة العليا",
+      "salary": 15000,
+      "address": "الرياض، حي العليا",
+      "biography": "خبير مالي وإداري بخبرة تمتد لأكثر من 15 عاماً في قيادة التحول الرقمي للمؤسسات.",
+      "notes": "المدير التنفيذي للنظام."
+    }
+  ],
+  "logs": [
+    {
+      "id": "m2571e4rx",
+      "timestamp": "١‏/٣‏/٢٠٢٦ ١٢:٠٤:٣٢ ص",
+      "user": "علي خضر",
+      "action": "الموافقة على حساب",
+      "category": "نظام",
+      "details": "تمت الموافقة على حساب متخصص بالمعرف nrfp658uf"
+    },
+    {
+      "id": "3gzi66u0d",
+      "timestamp": "١‏/٣‏/٢٠٢٦ ١٢:٠٤:١٣ ص",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "8a9wd4doq",
+      "timestamp": "١‏/٣‏/٢٠٢٦ ١٢:٠٣:٤٩ ص",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: احمد محمد"
+    },
+    {
+      "id": "x9ygup2e4",
+      "timestamp": "١‏/٣‏/٢٠٢٦ ١٢:٠٣:١٥ ص",
+      "user": "nrfp658uf",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "vvjdpmk5i",
+      "timestamp": "١‏/٣‏/٢٠٢٦ ١٢:٠١:٥٨ ص",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم nrfp658uf بالدخول للنظام بصلاحية: موظف."
+    },
+    {
+      "id": "wlfljskxp",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٩:٤٨ م",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: qqww"
+    },
+    {
+      "id": "bs6e1lkj2",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٩:٢٧ م",
+      "user": "aliu0",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "e1gkvan0u",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٩:١٣ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم aliu0 بالدخول للنظام بصلاحية: موظف مختص (قسم: transfers)."
+    },
+    {
+      "id": "1vs7tdyoq",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٧:٠٣ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "li9dw025i",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٤:١٠ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "sw75dgvy1",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٤:٠٨ م",
+      "user": "aliu0",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "jjymjfy2w",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٩:٤٢ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم aliu0 بالدخول للنظام بصلاحية: موظف مختص (قسم: transfers)."
+    },
+    {
+      "id": "49oxlvcq7",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٩:٣٢ م",
+      "user": "aliu0",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "tanwip1lw",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٩:٢٤ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم aliu0 بالدخول للنظام بصلاحية: موظف مختص (قسم: transfers)."
+    },
+    {
+      "id": "kenx0gu20",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٩:١٩ م",
+      "user": "aliu0",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "fybj93v7p",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٩:٠٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم aliu0 بالدخول للنظام بصلاحية: موظف مختص (قسم: transfers)."
+    },
+    {
+      "id": "8mmng20tj",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٨:٤٢ م",
+      "user": "علي خضر",
+      "action": "الموافقة على حساب",
+      "category": "نظام",
+      "details": "تمت الموافقة على حساب متخصص بالمعرف fa5h0f37v"
+    },
+    {
+      "id": "pj187ss6i",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٨:٠٥ م",
+      "user": "علي خضر",
+      "action": "الموافقة على حساب",
+      "category": "نظام",
+      "details": "تمت الموافقة على حساب متخصص بالمعرف igo9ml4t0"
+    },
+    {
+      "id": "f8lgdpek0",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٨:٠٠ م",
+      "user": "علي خضر",
+      "action": "رفض حساب",
+      "category": "نظام",
+      "details": "تم رفض حساب متخصص بالمعرف mde7bpimu"
+    },
+    {
+      "id": "zogiacb6b",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٧:٥٧ م",
+      "user": "علي خضر",
+      "action": "رفض حساب",
+      "category": "نظام",
+      "details": "تم رفض حساب متخصص بالمعرف 24nf2spvj"
+    },
+    {
+      "id": "4cb7fjn31",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٧:٤٧ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "6p4gqjxns",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٤٧:٢٨ م",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: aliu0"
+    },
+    {
+      "id": "vdqazu3nz",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١١:٣٦:١٠ م",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: ali77"
+    },
+    {
+      "id": "4yazhhii3",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١٠:١٥:٢٨ م",
+      "user": "علي خضر",
+      "action": "إضافة تنسيب",
+      "category": "إداري",
+      "details": "تم إضافة حركة تنسيب للموظف: عدنان محمد طه ياسين الياسيني"
+    },
+    {
+      "id": "tirduae92",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١٠:١٢:٤٢ م",
+      "user": "علي خضر",
+      "action": "إضافة تنسيب",
+      "category": "إداري",
+      "details": "تم إضافة حركة تنسيب للموظف: صاحب مجيد عياش الغنامي"
+    },
+    {
+      "id": "mm0qcwk5d",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١٠:٠٧:٠٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "sto3khzvw",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١٠:٠٦:٢٧ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "3r883xj3u",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ١٠:٠٢:٥٤ م",
+      "user": "علي خضر",
+      "action": "تسجيل تعيين",
+      "category": "إداري",
+      "details": "تم تسجيل بيانات تعيين جديد للموظف: نورهان خميس عبود حافظ الحلفي"
+    },
+    {
+      "id": "g8xiluot9",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٩:٥١ م",
+      "user": "علي خضر",
+      "action": "تسجيل تعيين",
+      "category": "إداري",
+      "details": "تم تسجيل بيانات تعيين جديد للموظف: صالح مهدي صالح علاوي الركابي"
+    },
+    {
+      "id": "knuivm3y9",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٧:١٣ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "n80jzbt91",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٤:٤٤ م",
+      "user": "علي خضر",
+      "action": "تغيير اللغة",
+      "category": "نظام",
+      "details": "تم تغيير لغة واجهة النظام."
+    },
+    {
+      "id": "d82hk96fs",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٤:٤١ م",
+      "user": "علي خضر",
+      "action": "تغيير اللغة",
+      "category": "نظام",
+      "details": "تم تغيير لغة واجهة النظام."
+    },
+    {
+      "id": "gvwnats4u",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٤:٣٩ م",
+      "user": "علي خضر",
+      "action": "تغيير اللغة",
+      "category": "نظام",
+      "details": "تم تغيير لغة واجهة النظام."
+    },
+    {
+      "id": "pgis9hdbb",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٥٤:٢٩ م",
+      "user": "علي خضر",
+      "action": "تغيير اللغة",
+      "category": "نظام",
+      "details": "تم تغيير لغة واجهة النظام."
+    },
+    {
+      "id": "rqu1v9gdq",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٤٧:٠١ م",
+      "user": "علي خضر",
+      "action": "تسجيل نقل",
+      "category": "إداري",
+      "details": "تم تسجيل حركة نقل للموظف: عباس محمد عباس علي  بموجب الأمر 87886في 10/10/2026"
+    },
+    {
+      "id": "95oacko7n",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٤٥:١٨ م",
+      "user": "علي خضر",
+      "action": "تسجيل نقل",
+      "category": "إداري",
+      "details": "تم تسجيل حركة نقل للموظف: احمد محمد خميس الدراجي بموجب الأمر 2556545في 10/10/2025"
+    },
+    {
+      "id": "nzhl549qo",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٤٠:٥٣ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "6k903dcih",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠٣:٥٨ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "3nhd2mno5",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠٣:٢٦ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "1vbqi0y5s",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠٢:٠٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "4aasf9s5q",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠٢:٠٥ م",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: ىنلارالال"
+    },
+    {
+      "id": "3nc84hc0j",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠١:٤٦ م",
+      "user": "علي خضر",
+      "action": "تسجيل خروج",
+      "category": "نظام",
+      "details": "تم إنهاء الجلسة الحالية يدوياً."
+    },
+    {
+      "id": "07trl3r46",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠١:٠٥ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "7660mx0h3",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٩:٠٠:٥٥ م",
+      "user": "علي خضر",
+      "action": "تسجيل حساب جديد",
+      "category": "نظام",
+      "details": "تم تسجيل حساب جديد للمستخدم: تلرابؤفيفيء"
+    },
+    {
+      "id": "ku9q7doj8",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٥٧:٠٣ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "ovprm3jot",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٥٤:٥٢ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "ndv6mvqdv",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٥٣:٤٤ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "w5ph5e912",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٥٢:٤٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "vg4d83zur",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٥٢:٢٦ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "ynnfdw23a",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٤٩:٢٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "ri0xyh35b",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٣٩:٥١ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "vwnw863fv",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:٣٢:٢١ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    },
+    {
+      "id": "4r5i6db2h",
+      "timestamp": "٢٨‏/٢‏/٢٠٢٦ ٨:١٦:٥٩ م",
+      "user": "علي خضر",
+      "action": "تسجيل دخول ناجح",
+      "category": "نظام",
+      "details": "قام المستخدم علي خضر بالدخول للنظام بصلاحية: المالك."
+    }
+  ],
+  "accounts": [
+    {
+      "id": "24nf2spvj",
+      "username": "تلرابؤفيفيء",
+      "fullNameQuad": "وىلارىؤلاؤلب",
+      "password": "112222",
+      "assignedModule": "promotions",
+      "createdAt": "2026-02-28T18:00:55.229Z",
+      "status": "rejected",
+      "failedAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "id": "mde7bpimu",
+      "username": "ىنلارالال",
+      "fullNameQuad": "مناللايقيفقيفقيسقي",
+      "password": "223322",
+      "assignedModule": "leaves",
+      "createdAt": "2026-02-28T18:02:05.821Z",
+      "status": "rejected",
+      "failedAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "id": "igo9ml4t0",
+      "username": "ali77",
+      "fullNameQuad": "علي خضير ماجد",
+      "password": "1122",
+      "assignedModule": "transfers",
+      "createdAt": "2026-02-28T20:36:10.787Z",
+      "status": "approved",
+      "failedAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "id": "fa5h0f37v",
+      "username": "aliu0",
+      "fullNameQuad": "علي خضير محمد",
+      "password": "1122",
+      "assignedModule": "transfers",
+      "createdAt": "2026-02-28T20:47:28.708Z",
+      "status": "approved",
+      "failedAttempts": 0,
+      "isBlocked": false,
+      "lastLogin": "٢٨‏/٢‏/٢٠٢٦ ١١:٥٩:١٣ م"
+    },
+    {
+      "id": "nrfp658uf",
+      "username": "qqww",
+      "fullNameQuad": "jskjskjksjk",
+      "password": "1122",
+      "assignedModule": "permanent-employees",
+      "createdAt": "2026-02-28T20:59:48.497Z",
+      "status": "approved",
+      "failedAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "id": "0agcoaodo",
+      "username": "احمد محمد",
+      "fullNameQuad": "احمد محمد علي",
+      "password": "1122",
+      "assignedModule": "transfers",
+      "createdAt": "2026-02-28T21:03:49.493Z",
+      "status": "pending",
+      "failedAttempts": 0,
+      "isBlocked": false
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "date": "2023-10-01",
+      "description": "راتب شهر أكتوبر - علي خضر",
+      "category": "رواتب",
+      "amount": 15000,
+      "type": "EXPENSE"
+    },
+    {
+      "id": "2",
+      "date": "2023-10-02",
+      "description": "إيجار المكتب",
+      "category": "سكن",
+      "amount": 3000,
+      "type": "EXPENSE"
+    },
+    {
+      "id": "3",
+      "date": "2023-10-05",
+      "description": "إيداع مبيعات",
+      "category": "دخل",
+      "amount": 25000,
+      "type": "INCOME"
+    }
+  ],
+  "tasks": [],
+  "transfers": [
+    {
+      "employeeName": "عباس محمد عباس علي ",
+      "type": "internal",
+      "placeFrom": "مبيعات الطاقة",
+      "placeTo": "الشؤون الادارية",
+      "releaseDate": "2026-02-25",
+      "resumptionDate": "2026-02-26",
+      "orderNumber": "87886في 10/10/2026",
+      "education": "متوسطة",
+      "jobTitle": "حرفي اول",
+      "notes": "",
+      "id": "qtvsiszca",
+      "createdAt": "2026-02-28T18:47:01.544Z"
+    },
+    {
+      "employeeName": "احمد محمد خميس الدراجي",
+      "type": "external",
+      "placeFrom": "",
+      "placeTo": "وزارة الصحة ",
+      "releaseDate": "2018-02-22",
+      "resumptionDate": "",
+      "orderNumber": "2556545في 10/10/2025",
+      "education": "ابتدائية",
+      "jobTitle": "حرفي ",
+      "notes": "",
+      "id": "pg1ku1w3y",
+      "createdAt": "2026-02-28T18:45:18.143Z"
+    }
+  ],
+  "contractRecords": [
+    {
+      "fullNameQuad": "نورهان خميس عبود حافظ الحلفي",
+      "motherNameTriple": "سناء محمد كاظم",
+      "birthDate": "2002-02-22",
+      "gender": "أنثى",
+      "unifiedIdNumber": "2002565588852",
+      "issueDate": "2023-02-22",
+      "appointmentType": "contract",
+      "appointmentDate": "2020-12-11",
+      "commencementDate": "2021-12-13",
+      "wageOrderNumber": "8512 في 22/10/2020",
+      "contractConversionOrderNumber": "58887 في 22/10/2020",
+      "phone": "07782023695",
+      "address": "الجمهورية شارع المكاتب",
+      "id": "9kx8n8swk",
+      "createdAt": "2026-02-28T19:02:54.365Z"
+    },
+    {
+      "fullNameQuad": "صالح مهدي صالح علاوي الركابي",
+      "motherNameTriple": "احلام مجيد عدنان",
+      "birthDate": "2003-01-22",
+      "gender": "ذكر",
+      "unifiedIdNumber": "2003252525654",
+      "issueDate": "2024-11-20",
+      "appointmentType": "wage",
+      "appointmentDate": "2019-02-25",
+      "commencementDate": "2021-12-12",
+      "wageOrderNumber": "2545في 12/1/2019",
+      "contractConversionOrderNumber": "لايوجد",
+      "phone": "07702356425",
+      "address": "القبلة حي القضاة",
+      "id": "092eb4v64",
+      "createdAt": "2026-02-28T18:59:51.658Z"
+    }
+  ]
+}
